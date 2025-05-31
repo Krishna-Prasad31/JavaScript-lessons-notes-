@@ -1,0 +1,25 @@
+#myBox{
+  background-color: lightgreen;
+  width: 300px;
+  height: 300px;
+  font-size: 3rem;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#myButton{
+  background-color: lightblue;
+  width: 100px;
+  height: 50px;
+  font-size: 1rem;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
